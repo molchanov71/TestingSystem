@@ -1,2 +1,5 @@
 .idea
+.vscode
 backend/app/__pycache__
+backend/app/db/__pycache__
+venv
